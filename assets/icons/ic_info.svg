@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icn_Info" transform="translate(-198 -39)">
+    <g id="Ellipse_134" data-name="Ellipse 134" transform="translate(198 39)" fill="none" stroke="#000" stroke-width="2">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11" fill="none"/>
+    </g>
+    <path id="Icon_open-info" data-name="Icon open-info" d="M4.92,0A1.64,1.64,0,1,0,6.56,1.64,1.645,1.645,0,0,0,4.92,0ZM2.46,4.1A2.457,2.457,0,0,0,0,6.56H1.64a.82.82,0,0,1,1.64,0c0,.459-1.64,2.689-1.64,4.1a2.426,2.426,0,0,0,2.46,2.46,2.457,2.457,0,0,0,2.46-2.46H4.92a.82.82,0,0,1-1.64,0c0-.59,1.64-3.017,1.64-4.1A2.478,2.478,0,0,0,2.46,4.1Z" transform="translate(206.72 44.44)"/>
+  </g>
+</svg>

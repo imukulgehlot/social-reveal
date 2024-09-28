@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ic_your_name" transform="translate(-19.764 -11.764)" opacity="0.5">
+    <g id="Rectangle_158" data-name="Rectangle 158" transform="translate(19.764 11.764)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
+    </g>
+    <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M9.339,10.673A5.337,5.337,0,1,0,4,5.337,5.336,5.336,0,0,0,9.339,10.673Zm3.736,1.334h-.7a7.257,7.257,0,0,1-6.079,0H5.6a5.6,5.6,0,0,0-5.6,5.6v1.734a2,2,0,0,0,2,2H16.677a2,2,0,0,0,2-2V17.611A5.6,5.6,0,0,0,13.075,12.007Z" transform="translate(25.764 15.764)"/>
+  </g>
+</svg>

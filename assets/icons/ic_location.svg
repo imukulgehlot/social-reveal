@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ic_Location" transform="translate(-44 -163)">
+    <g id="Rectangle_377" data-name="Rectangle 377" transform="translate(44 163)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
+    </g>
+    <path id="Icon_material-location-on" data-name="Icon material-location-on" d="M15.326,3A7.821,7.821,0,0,0,7.5,10.826c0,5.87,7.826,14.535,7.826,14.535s7.826-8.665,7.826-14.535A7.821,7.821,0,0,0,15.326,3Zm0,10.622a2.8,2.8,0,1,1,2.8-2.8A2.8,2.8,0,0,1,15.326,13.622Z" transform="translate(43.79 163.558)" fill="#fff" opacity="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icn_Emoji" transform="translate(-39 -824)">
+    <g id="Rectangle_541" data-name="Rectangle 541" transform="translate(39 824)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <path id="Icon_material-insert-emoticon" data-name="Icon material-insert-emoticon" d="M17.985,3A15,15,0,1,0,33,18,14.993,14.993,0,0,0,17.985,3ZM18,30A12,12,0,1,1,30,18,12,12,0,0,1,18,30Zm5.25-13.5A2.25,2.25,0,1,0,21,14.25,2.247,2.247,0,0,0,23.25,16.5Zm-10.5,0a2.25,2.25,0,1,0-2.25-2.25A2.247,2.247,0,0,0,12.75,16.5ZM18,26.25A8.244,8.244,0,0,0,25.665,21H10.335A8.244,8.244,0,0,0,18,26.25Z" transform="translate(41 826)"/>
+  </g>
+</svg>

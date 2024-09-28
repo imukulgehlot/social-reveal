@@ -1,0 +1,7 @@
+<svg id="icn_Not_Interested" xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28">
+  <g id="Rectangle_176" data-name="Rectangle 176" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="30" height="28" stroke="none"/>
+    <rect x="0.5" y="0.5" width="29" height="27" fill="none"/>
+  </g>
+  <path id="Icon_ionic-ios-sad" data-name="Icon ionic-ios-sad" d="M12.483,3.375a9.108,9.108,0,1,0,9.108,9.108A9.107,9.107,0,0,0,12.483,3.375ZM9.247,10.036A1.052,1.052,0,1,1,8.284,11,1.053,1.053,0,0,1,9.247,10.036Zm-.031,6.652a.7.7,0,0,1-.644-.981,4.263,4.263,0,0,1,7.821,0,.7.7,0,0,1-.644.981,31.558,31.558,0,0,0-3.2-.175C10.863,16.512,9.217,16.687,9.217,16.687Zm6.5-4.559a1.052,1.052,0,1,1,.963-.963A1.053,1.053,0,0,1,15.72,12.129Z" transform="translate(2.517 1.517)"/>
+</svg>

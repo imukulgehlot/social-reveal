@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icn_Send" transform="translate(-386 -824)">
+    <g id="Rectangle_542" data-name="Rectangle 542" transform="translate(386 824)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <path id="Icon_material-send" data-name="Icon material-send" d="M3.011,25.14,27.08,14.82,3.011,4.5,3,12.527,20.2,14.82,3,17.113Z" transform="translate(390.71 829.18)"/>
+  </g>
+</svg>

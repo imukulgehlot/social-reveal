@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icn_Search" transform="translate(-351 -115)">
+    <g id="Rectangle_536" data-name="Rectangle 536" transform="translate(351 115)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <path id="Icon_awesome-search" data-name="Icon awesome-search" d="M20.218,17.724l-3.992-3.992a.96.96,0,0,0-.681-.28h-.653a8.324,8.324,0,1,0-1.441,1.441v.653a.96.96,0,0,0,.28.681l3.992,3.992a.957.957,0,0,0,1.357,0l1.133-1.133A.965.965,0,0,0,20.218,17.724ZM8.327,13.452a5.125,5.125,0,1,1,5.125-5.125A5.122,5.122,0,0,1,8.327,13.452Z" transform="translate(360.751 125)"/>
+  </g>
+</svg>

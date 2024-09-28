@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="ic_Leadership" transform="translate(-33 -18)">
+    <g id="Rectangle_549" data-name="Rectangle 549" transform="translate(33 18)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <g id="Icon_feather-award" data-name="Icon feather-award" transform="translate(35.5 20.5)">
+      <path id="Path_1586" data-name="Path 1586" d="M28.5,12A10.5,10.5,0,1,1,18,1.5,10.5,10.5,0,0,1,28.5,12Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_1587" data-name="Path 1587" d="M12.315,20.835,10.5,34.5,18,30l7.5,4.5L23.685,20.82" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

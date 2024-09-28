@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ic_NewYork" transform="translate(-44.127 -173.127)" opacity="0.5">
+    <g id="Rectangle_157" data-name="Rectangle 157" transform="translate(44.127 173.127)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
+    </g>
+    <path id="Icon_material-location-city" data-name="Icon material-location-city" d="M16.668,12.126V6.042L13.626,3,10.584,6.042V8.07H4.5v14.2H22.752V12.126ZM8.556,20.238H6.528V18.21H8.556Zm0-4.056H6.528V14.154H8.556Zm0-4.056H6.528V10.1H8.556Zm6.084,8.112H12.612V18.21H14.64Zm0-4.056H12.612V14.154H14.64Zm0-4.056H12.612V10.1H14.64Zm0-4.056H12.612V6.042H14.64Zm6.084,12.168H18.7V18.21h2.028Zm0-4.056H18.7V14.154h2.028Z" transform="translate(45.502 175.495)"/>
+  </g>
+</svg>

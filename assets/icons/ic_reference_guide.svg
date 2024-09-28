@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icn_Guide" transform="translate(-96 -455)">
+    <g id="Rectangle_258" data-name="Rectangle 258" transform="translate(96 455)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <path id="Icon_ionic-md-book" data-name="Icon ionic-md-book" d="M26.892,5.65,16.309,7.64,5.725,5.65a2.193,2.193,0,0,0-2.35,2.338v15.2c0,1.287.995,2.027,2.35,2.338l10.583,1.984,10.583-1.99c1.356-.311,2.35-1.051,2.35-2.338V7.988A2.193,2.193,0,0,0,26.892,5.65Zm0,17.535-9.4,1.99V9.972l9.4-1.99Zm-11.765,1.99-9.4-1.99V7.988l9.4,1.99Z" transform="translate(99.691 458.43)"/>
+  </g>
+</svg>

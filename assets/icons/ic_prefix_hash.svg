@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ic_Tags" transform="translate(-32 -706)" opacity="0.5">
+    <g id="Rectangle_273" data-name="Rectangle 273" transform="translate(32 706)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
+    </g>
+    <text id="_" data-name="#" transform="translate(47 728)" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-7" y="0">#</tspan></text>
+  </g>
+</svg>

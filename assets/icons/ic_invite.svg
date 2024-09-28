@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icn_Invite" transform="translate(-329 -307)">
+    <g id="Rectangle_545" data-name="Rectangle 545" transform="translate(329 307)" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <g id="Icon_feather-send" data-name="Icon feather-send" transform="translate(331 309)">
+      <path id="Path_2358" data-name="Path 2358" d="M33,3,16.5,19.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_2359" data-name="Path 2359" d="M33,3,22.5,33l-6-13.5L3,13.5Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

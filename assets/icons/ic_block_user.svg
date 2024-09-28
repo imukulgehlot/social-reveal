@@ -1,0 +1,7 @@
+<svg id="icn_Block_User" xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28">
+  <g id="Rectangle_176" data-name="Rectangle 176" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="30" height="28" stroke="none"/>
+    <rect x="0.5" y="0.5" width="29" height="27" fill="none"/>
+  </g>
+  <path id="Icon_metro-blocked" data-name="Icon metro-blocked" d="M19.4,4.815A9.858,9.858,0,0,0,5.458,18.757,9.858,9.858,0,0,0,19.4,4.815Zm.423,6.971a7.353,7.353,0,0,1-1.369,4.282L8.147,5.762a7.39,7.39,0,0,1,11.675,6.024Zm-14.787,0A7.353,7.353,0,0,1,6.4,7.5L16.71,17.81A7.39,7.39,0,0,1,5.035,11.786Z" transform="translate(2.571 2.214)"/>
+</svg>

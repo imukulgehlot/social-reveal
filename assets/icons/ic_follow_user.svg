@@ -1,0 +1,7 @@
+<svg id="icn_Follow_User" xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28">
+  <g id="Rectangle_176" data-name="Rectangle 176" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="30" height="28" stroke="none"/>
+    <rect x="0.5" y="0.5" width="29" height="27" fill="none"/>
+  </g>
+  <path id="Icon_awesome-user-plus" data-name="Icon awesome-user-plus" d="M19.788,6.6h-2.03V4.567a.509.509,0,0,0-.507-.507H16.237a.509.509,0,0,0-.507.507V6.6H13.7a.509.509,0,0,0-.507.507V8.118a.509.509,0,0,0,.507.507h2.03v2.03a.509.509,0,0,0,.507.507h1.015a.509.509,0,0,0,.507-.507V8.626h2.03a.509.509,0,0,0,.507-.507V7.1A.509.509,0,0,0,19.788,6.6ZM7.1,8.118A4.059,4.059,0,1,0,3.044,4.059,4.059,4.059,0,0,0,7.1,8.118ZM9.945,9.133h-.53a5.52,5.52,0,0,1-4.624,0h-.53A4.263,4.263,0,0,0,0,13.4v1.319a1.523,1.523,0,0,0,1.522,1.522H12.685a1.523,1.523,0,0,0,1.522-1.522V13.4A4.263,4.263,0,0,0,9.945,9.133Z" transform="translate(4.852 5.882)"/>
+</svg>

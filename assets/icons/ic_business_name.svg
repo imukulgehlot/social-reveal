@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ic_business_name" transform="translate(-19.764 -11.764)">
+    <g id="Rectangle_158" data-name="Rectangle 158" transform="translate(19.764 11.764)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
+    </g>
+    <path id="Icon_material-business-center" data-name="Icon material-business-center" d="M10.211,16.218v-.9H3.91L3.9,18.922a1.8,1.8,0,0,0,1.8,1.8H18.323a1.8,1.8,0,0,0,1.8-1.8V15.316h-6.31v.9Zm9.014-8.112H15.61V6.3l-1.8-1.8H10.2L8.4,6.3v1.8H4.8A1.808,1.808,0,0,0,3,9.908v2.7a1.8,1.8,0,0,0,1.8,1.8h5.408v-1.8h3.605v1.8h5.408a1.808,1.808,0,0,0,1.8-1.8v-2.7A1.808,1.808,0,0,0,19.225,8.105Zm-5.408,0H10.211V6.3h3.605Z" transform="translate(22.764 14.264)" fill="#a2a2a2"/>
+  </g>
+</svg>

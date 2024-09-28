@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icn_Verification" transform="translate(-200 -245)">
+    <g id="Rectangle_548" data-name="Rectangle 548" transform="translate(200 245)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <path id="badge-check" d="M24,12a4.9,4.9,0,0,0-2.168-4.073,4.91,4.91,0,0,0-5.76-5.76,4.91,4.91,0,0,0-8.146,0,4.91,4.91,0,0,0-5.76,5.76,4.91,4.91,0,0,0,0,8.146,4.91,4.91,0,0,0,5.76,5.76,4.91,4.91,0,0,0,8.146,0,4.91,4.91,0,0,0,5.76-5.76A4.9,4.9,0,0,0,24,12ZM11.909,15.419A1.981,1.981,0,0,1,10.5,16a2,2,0,0,1-1.416-.585L6.3,12.718,7.7,11.281l2.793,2.707,5.809-5.7,1.4,1.425L11.91,15.419Z" transform="translate(208.001 253)" fill="#28a503"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="176" viewBox="0 0 176 176">
+  <g id="icn_Checked" transform="translate(-119 -291)">
+    <g id="Rectangle_544" data-name="Rectangle 544" transform="translate(119 291)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="176" height="176" stroke="none"/>
+      <rect x="0.5" y="0.5" width="175" height="175" fill="none"/>
+    </g>
+    <g id="icn_Check" transform="translate(147 319.006)">
+      <path id="Path_2360" data-name="Path 2360" d="M117,54.782v5.244a57,57,0,1,1-33.8-52.1" transform="translate(0 0)" fill="none" stroke="#28a503" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path id="Path_2361" data-name="Path 2361" d="M87.6,6l-57,57.057-17.1-17.1" transform="translate(29.4 8.426)" fill="none" stroke="#28a503" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

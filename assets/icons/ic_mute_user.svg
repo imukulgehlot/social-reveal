@@ -1,0 +1,7 @@
+<svg id="icn_Mute_User" xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28">
+  <g id="Rectangle_176" data-name="Rectangle 176" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="30" height="28" stroke="none"/>
+    <rect x="0.5" y="0.5" width="29" height="27" fill="none"/>
+  </g>
+  <path id="Icon_metro-volume-mute2" data-name="Icon metro-volume-mute2" d="M19.767,13.8v1.52h-1.52L16.328,13.4l-1.919,1.919h-1.52V13.8l1.919-1.919L12.889,9.962V8.442h1.52l1.919,1.919,1.919-1.919h1.52v1.52l-1.919,1.919Zm-9.745,6.106a.573.573,0,0,1-.405-.168L5.2,15.321H3.144a.573.573,0,0,1-.573-.573V9.015a.573.573,0,0,1,.573-.573H5.2L9.617,4.024a.573.573,0,0,1,.979.405v14.9a.573.573,0,0,1-.573.573Z" transform="translate(3.831 2.119)"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="icn_Message" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_245" data-name="Rectangle 245" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="messages" d="M9.75,0h-6A3.754,3.754,0,0,0,0,3.746v9.641a1.612,1.612,0,0,0,2.5,1.342l2.972-1.982H9.75A3.754,3.754,0,0,0,13.5,9V3.746A3.754,3.754,0,0,0,9.75,0ZM18,6.746v9.641a1.611,1.611,0,0,1-2.5,1.342l-2.973-1.983H8.25A3.73,3.73,0,0,1,5.5,14.531l.427-.285H9.75A5.257,5.257,0,0,0,15,9V3.746a5.346,5.346,0,0,0-.049-.68A3.753,3.753,0,0,1,18,6.746Z" transform="translate(3 3.003)"/>
+</svg>
